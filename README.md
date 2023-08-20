@@ -15,4 +15,4 @@
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
-Tenho 21 anos. Estou cursando bacharelado em Ciência da Computação na faculdade IFSUL (Instituto Federal Fronteira Sul). Busco sempre aprimorar meu conhecimento e priorizar minha vida acadêmica e profissional.
+Tenho 21 anos. Estou cursando bacharelado em Ciência da Computação na faculdade IFSUL (Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense). Busco sempre aprimorar meu conhecimento e priorizar minha vida acadêmica e profissional.
